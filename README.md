@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[mietcheck.streamlit.app](https://mietcheck-gilles177.streamlit.app)**
+👉 **https://mietcheck-gilles177.streamlit.app/**
 
 ---
 
