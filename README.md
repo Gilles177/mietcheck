@@ -132,10 +132,10 @@ Für die produktive Nutzung können die Daten über die GENESIS-Online-API des S
 
 ## 👤 Autor
 
-**Gontran Gilles**
+**Gilles Youtebo**
 
 - GitHub: [@Gilles177](https://github.com/Gilles177)
-- LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- LinkedIn: [linkedin.com/in/gilles-yamdeu](https://linkedin.com/in/gilles-yamdeu)
 
 ## 📄 Lizenz
 
