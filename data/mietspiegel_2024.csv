@@ -1,0 +1,26 @@
+stadt,stadtteil,miete_pro_m2,jahr
+Berlin,Mitte,22.50,2024
+Berlin,Kreuzberg,19.80,2024
+Berlin,Prenzlauer Berg,20.40,2024
+Berlin,Neukölln,16.20,2024
+Berlin,Charlottenburg,21.10,2024
+München,Altstadt-Lehel,28.90,2024
+München,Schwabing,24.50,2024
+München,Sendling,22.80,2024
+München,Maxvorstadt,26.10,2024
+München,Haidhausen,23.40,2024
+Hamburg,Altona,17.60,2024
+Hamburg,Eimsbüttel,18.20,2024
+Hamburg,Mitte,19.40,2024
+Hamburg,Wandsbek,14.80,2024
+Hamburg,Harburg,13.90,2024
+Köln,Innenstadt,17.20,2024
+Köln,Ehrenfeld,14.60,2024
+Köln,Nippes,14.10,2024
+Köln,Deutz,15.30,2024
+Köln,Sülz,16.80,2024
+Frankfurt,Innenstadt,23.40,2024
+Frankfurt,Sachsenhausen,19.80,2024
+Frankfurt,Bornheim,18.60,2024
+Frankfurt,Nordend,21.20,2024
+Frankfurt,Westend,22.90,2024

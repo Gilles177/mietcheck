@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Streamlit agent skills (environment-specific symlinks)
+.agents/skills/developing-with-streamlit
+
+# OS noise
+.DS_Store
+Thumbs.db

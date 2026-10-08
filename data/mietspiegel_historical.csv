@@ -1,0 +1,67 @@
+stadt,stadtteil,jahr,miete_pro_m2
+Berlin,Mitte,2019,17.20
+Berlin,Mitte,2020,18.10
+Berlin,Mitte,2021,19.30
+Berlin,Mitte,2022,20.50
+Berlin,Mitte,2023,21.60
+Berlin,Mitte,2024,22.50
+Berlin,Kreuzberg,2019,15.40
+Berlin,Kreuzberg,2020,16.20
+Berlin,Kreuzberg,2021,17.10
+Berlin,Kreuzberg,2022,18.00
+Berlin,Kreuzberg,2023,18.90
+Berlin,Kreuzberg,2024,19.80
+Berlin,Prenzlauer Berg,2019,16.10
+Berlin,Prenzlauer Berg,2020,16.90
+Berlin,Prenzlauer Berg,2021,17.80
+Berlin,Prenzlauer Berg,2022,18.60
+Berlin,Prenzlauer Berg,2023,19.50
+Berlin,Prenzlauer Berg,2024,20.40
+München,Altstadt-Lehel,2019,22.80
+München,Altstadt-Lehel,2020,23.90
+München,Altstadt-Lehel,2021,25.20
+München,Altstadt-Lehel,2022,26.50
+München,Altstadt-Lehel,2023,27.70
+München,Altstadt-Lehel,2024,28.90
+München,Schwabing,2019,19.50
+München,Schwabing,2020,20.50
+München,Schwabing,2021,21.60
+München,Schwabing,2022,22.60
+München,Schwabing,2023,23.60
+München,Schwabing,2024,24.50
+Hamburg,Altona,2019,13.80
+Hamburg,Altona,2020,14.50
+Hamburg,Altona,2021,15.40
+Hamburg,Altona,2022,16.20
+Hamburg,Altona,2023,17.00
+Hamburg,Altona,2024,17.60
+Hamburg,Eimsbüttel,2019,14.30
+Hamburg,Eimsbüttel,2020,15.10
+Hamburg,Eimsbüttel,2021,16.00
+Hamburg,Eimsbüttel,2022,16.80
+Hamburg,Eimsbüttel,2023,17.50
+Hamburg,Eimsbüttel,2024,18.20
+Köln,Innenstadt,2019,13.50
+Köln,Innenstadt,2020,14.20
+Köln,Innenstadt,2021,15.10
+Köln,Innenstadt,2022,15.90
+Köln,Innenstadt,2023,16.60
+Köln,Innenstadt,2024,17.20
+Köln,Ehrenfeld,2019,11.40
+Köln,Ehrenfeld,2020,12.00
+Köln,Ehrenfeld,2021,12.80
+Köln,Ehrenfeld,2022,13.50
+Köln,Ehrenfeld,2023,14.10
+Köln,Ehrenfeld,2024,14.60
+Frankfurt,Innenstadt,2019,18.50
+Frankfurt,Innenstadt,2020,19.40
+Frankfurt,Innenstadt,2021,20.60
+Frankfurt,Innenstadt,2022,21.70
+Frankfurt,Innenstadt,2023,22.60
+Frankfurt,Innenstadt,2024,23.40
+Frankfurt,Sachsenhausen,2019,15.60
+Frankfurt,Sachsenhausen,2020,16.40
+Frankfurt,Sachsenhausen,2021,17.40
+Frankfurt,Sachsenhausen,2022,18.30
+Frankfurt,Sachsenhausen,2023,19.10
+Frankfurt,Sachsenhausen,2024,19.80
