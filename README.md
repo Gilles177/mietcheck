@@ -81,10 +81,13 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
+```
+
 Die App öffnet sich automatisch unter http://localhost:8501
 
-📁 Projektstruktur
-text
+## 📁 Projektstruktur
+
+```text
 mietcheck/
 ├── app.py
 ├── requirements.txt
@@ -105,33 +108,37 @@ mietcheck/
     ├── styles.py
     ├── data_loader.py
     └── analysis.py
-📊 Datenquelle
+```
+
+## 📊 Datenquelle
+
 Die verwendeten Mietdaten sind kuratierte Beispieldaten, die auf öffentlich zugänglichen Mietspiegeln deutscher Großstädte basieren.
 
-Städte: Berlin · München · Hamburg · Köln · Frankfurt
+- **Städte:** Berlin · München · Hamburg · Köln · Frankfurt
+- **Zeitraum:** 2019 – 2024
+- **Stadtteile:** 25
 
-Zeitraum: 2019 – 2024
+Für die produktive Nutzung können die Daten über die GENESIS-Online-API des Statistischen Bundesamtes (Destatis) bezogen werden.
 
-Stadtteile: 25
+## 🗺 Roadmap
 
-Für produktive Nutzung können die Daten über die GENESIS-Online API des Statistischen Bundesamtes (Destatis) bezogen werden.
+- [x] Mietpreis-Checker mit Ampel-System
+- [x] Markttrends mit CAGR
+- [x] Interaktive Karte
+- [x] ML-basierte Mietprognose
+- [ ] Anbindung an Destatis GENESIS-API (Live-Daten)
+- [ ] Erweiterung auf alle 16 Bundesländer
+- [ ] PDF-Export des Mietcheck-Reports
 
-🗺 Roadmap
-☑ Mietpreis-Checker mit Ampel-System
-☑ Markttrends mit CAGR
-☑ Interaktive Karte
-☑ ML-basierte Mietprognose
-□ Anbindung an Destatis GENESIS-API (Live-Daten)
-□ Erweiterung auf alle 16 Bundesländer
-□ PDF-Export des Mietcheck-Reports
-👤 Autor
-Gontran Gilles
+## 👤 Autor
 
-GitHub: @Gilles177
+**Gontran Gilles**
 
-LinkedIn: linkedin.com/in/your-handle
+- GitHub: [@Gilles177](https://github.com/Gilles177)
+- LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
 
-📄 Lizenz
-Dieses Projekt steht unter der MIT-Lizenz — siehe LICENSE für Details.
+## 📄 Lizenz
 
-<p align="center"> <sub>Made with ❤️ in Deutschland</sub> </p> ```
+Dieses Projekt steht unter der MIT-Lizenz, siehe [LICENSE](LICENSE) für Details.
+
+<p align="center"> <sub>Made with ❤️ in Deutschland</sub> </p>
